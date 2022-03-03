@@ -1,1 +1,3 @@
-# Practicas-de-Programacion-2
+# Practicas de Programacion 2
+
+segundo codigo
